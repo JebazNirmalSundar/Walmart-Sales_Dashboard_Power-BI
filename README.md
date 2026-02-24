@@ -11,7 +11,7 @@ This dashboard analyzes 10,000+ sales records to track KPIs such as revenue, pro
 - Power Query
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+https://github.com/JebazNirmalSundar/Walmart-Sales_Dashboard_Power-BI/blob/main/Walmart%20Sales%20DAshboard.jpg
 
 ## Key Insights
 - Identified top-performing region
